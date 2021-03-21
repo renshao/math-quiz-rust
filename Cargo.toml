@@ -1,0 +1,13 @@
+[package]
+name = "math-quiz-rust"
+version = "0.1.0"
+authors = ["ren"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.0"
+rand_core = "0.6.2"
+rand_seeder = "0.2.2"
+rand_pcg = "0.3.0"
